@@ -1,15 +1,12 @@
-Screenshots for the main README. Save them here under exactly these names -
-the README links to them directly and will show a broken image otherwise.
+Screenshots for the main README. The README links to these names directly and
+will show broken images if they are renamed.
 
-  01-play.png    Mid-game: a structure of cubes with several words built,
-                 the tray visible along the bottom, ideally with the gold
-                 border showing on the most recent word.
-  02-space.png   The play space from a different camera angle, showing that
-                 words run in three directions. The spotlight view (right-click
-                 a cube) also works well here if it reads clearly.
+  01-play.png       Hero shot. A structure running in more than one direction,
+                    the definition panel open, and a scoring line visible.
+  02-space.png      A second structure from a different angle, ideally with
+                    orange in-progress cubes showing a move being made.
+  03-interface.png  The whole interface unobstructed, used beside the controls
+                    tables. An empty board is fine here - the point is the UI.
 
-CROP THE WINDOW CHROME OFF if there is any. The game runs full screen at
-1920 x 1080, so a plain screenshot should already be clean.
-
-PNG. No need to resize - GitHub scales them to fit and keeps the full-size
-version behind a click.
+Captured full screen, so there is no window chrome to crop. Turn the FPS/GPU
+overlay off before capturing.

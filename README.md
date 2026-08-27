@@ -87,6 +87,8 @@ rather the machine simply played its game and let you keep up.
 
 ## Controls
 
+![The interface at the start of a game](screenshots/03-interface.png)
+
 **Placing letters**
 
 | Action | Control |
