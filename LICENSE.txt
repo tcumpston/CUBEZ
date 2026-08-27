@@ -1,0 +1,56 @@
+CUBEZ
+Copyright (c) 2026 Wombyland. All rights reserved.
+
+PERMITTED
+
+You may download, install and play CUBEZ free of charge, for personal,
+non-commercial use, on any number of computers you own or control. You may make
+copies for backup purposes.
+
+NOT PERMITTED
+
+Without prior written permission from Wombyland, you may not:
+
+  - sell, rent, license or otherwise distribute the game or any part of it,
+    whether on its own or bundled with anything else;
+  - modify, translate, reverse engineer, decompile or disassemble the game, or
+    derive its source code, except to the extent this restriction is prohibited
+    by applicable law;
+  - remove or alter any copyright, trademark or other proprietary notice;
+  - redistribute a modified copy under any name.
+
+You are welcome to record, stream and publish video of the game, including
+monetised video, without seeking permission.
+
+THIRD-PARTY COMPONENTS
+
+The terms above apply to CUBEZ itself. They do NOT apply to the third-party
+data and fonts the game incorporates, which carry their own licences and remain
+the property of their respective owners:
+
+  - WordNet 3.0 (word definitions), Princeton University
+  - the ENABLE word list (public domain)
+  - Peter Norvig's count_1w frequency data
+  - TeX Gyre Chorus (font), under the GUST Font Licence
+
+These are set out in full in ATTRIBUTION.md, which is distributed with the game.
+The WordNet licence requires its notice to appear in ALL copies of this
+software: ATTRIBUTION.md must therefore be kept with any copy you make.
+
+Nothing in this licence grants you rights in those components beyond what their
+own licences allow, and nothing here restricts rights those licences give you.
+
+CUBEZ is built with the Unity engine. Unity is a trademark of Unity
+Technologies. The installer is produced with Inno Setup, copyright (c)
+1997-2025 Jordan Russell, used under its own licence.
+
+NO WARRANTY
+
+The game is provided "as is", without warranty of any kind, express or implied,
+including but not limited to the warranties of merchantability, fitness for a
+particular purpose and non-infringement. In no event shall the copyright holder
+be liable for any claim, damages or other liability, whether in an action of
+contract, tort or otherwise, arising from, out of or in connection with the game
+or its use.
+
+Contact: https://www.wombyland.com/

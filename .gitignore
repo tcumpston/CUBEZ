@@ -1,0 +1,25 @@
+# This repository distributes CUBEZ. It holds no game source and no build
+# output - the installer and zip are attached to GitHub Releases, which do not
+# count against repository or LFS storage.
+
+# Build artefacts, should they ever be copied here by accident
+*.exe
+*.zip
+*.7z
+*.msi
+
+# Unity project material must never appear here
+Assets/
+Library/
+ProjectSettings/
+Packages/
+*.unity
+*.meta
+*.cs
+*.csproj
+*.sln
+
+# OS noise
+Thumbs.db
+desktop.ini
+.DS_Store
