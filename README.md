@@ -52,8 +52,9 @@ The game runs full screen at 1920 × 1080.
 
 ## How it plays
 
-Every cube carries a letter. You hold a tray of them along the bottom of the
-screen, and you spend them building **straight lines through the play space** —
+Every cube carries a letter. You hold a tray of ten along the bottom of the
+screen, refilled as you spend them, and you build **straight lines through the
+play space** —
 left–right, up–down, or front–back.
 
 **It is a crossword, in the round.** Every word your move creates must be real,
@@ -61,8 +62,8 @@ not only the line you meant to build. If your new cubes sit alongside existing
 ones and spell something invalid in a crossing direction, the move is rejected
 and your cubes come back — so there is no cost to trying.
 
-**Scoring is one point per letter**, whether you placed the cube this turn or it
-was already on the board. A word that also reads validly **backwards** — PART and
+**First to 100 points wins.** Scoring is **one point per letter**, whether you
+placed the cube this turn or it was already on the board. A word that also reads validly **backwards** — PART and
 TRAP, or a palindrome like LEVEL — earns **two bonus points**. One move often
 makes several words at once, and each is scored.
 
@@ -72,8 +73,15 @@ when you place it, and that choice is locked in for the rest of the game.
 **Stuck with unusable letters?** **RESET** throws your tray away and deals a fresh
 set, at the cost of your turn.
 
-The machine plays against you at four difficulties — Easy, Medium, Hard and
-Nightmare — which change how deep into the dictionary it is willing to reach.
+**The machine adapts to you.** The default difficulty, *Adaptive*, does not cap
+the machine's vocabulary — that turns out not to make it play worse. Instead it
+caps how much the machine will *score* per move, based on who is ahead: when it
+leads it plays smaller words, or passes rather than run away with the game; when
+it trails it plays at full strength. Its estimate of your skill carries across
+games and drifts toward an even match.
+
+Four fixed levels sit behind it — Easy, Medium, Hard and Nightmare — if you would
+rather the machine simply played its game and let you keep up.
 
 ---
 
@@ -108,7 +116,11 @@ until the next one is played.
 letters on the board, or by typing, and it tells you instantly whether it counts
 and what it means. Checking never costs you a turn.
 
-`SAVE`, `DIFFICULTY`, `HELP` and `EXIT` sit along the top bar.
+The rest of the top bar holds `NEW GAME`, `SAVE`, `LOAD`, `DIFFICULTY`, `HELP`
+and `EXIT`, alongside a **mouse-sensitivity slider** for the camera.
+
+The game also works on a touchscreen: tap to click, double-tap for right-click,
+one-finger drag to rotate, pinch to zoom.
 
 ---
 

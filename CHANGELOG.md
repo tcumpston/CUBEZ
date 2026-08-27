@@ -15,7 +15,11 @@ wombyland.com; this is the same game as a native download.
   you place. Two bonus points for a word that also reads validly backwards,
   including palindromes.
 - Wildcard cubes that can stand for any letter, fixed once placed.
-- Play against the machine at four difficulties: Easy, Medium, Hard, Nightmare.
+- An adaptive machine opponent that caps its own per-move score from the
+  current margin rather than its vocabulary, easing off when ahead and playing
+  full strength when behind. Its skill estimate carries across games. Four
+  fixed levels also available: Easy, Medium, Hard, Nightmare.
+- First to 100 points wins, configurable in `settings.cfg`.
 - A 172,822-entry dictionary from the public-domain ENABLE word list, driving
   both word validity and the machine's difficulty ranking.
 - Definitions from WordNet, shown when the machine plays a word.
