@@ -8,7 +8,7 @@ Made by [Wombyland](https://www.wombyland.com/). Windows, single player.
 
 ![Building a word](screenshots/01-play.png)
 
-![The play space from another angle](screenshots/02-space.png)
+![A move in progress, with a wildcard in the tray](screenshots/02-space.png)
 
 ---
 
@@ -67,8 +67,10 @@ placed the cube this turn or it was already on the board. A word that also reads
 TRAP, or a palindrome like LEVEL — earns **two bonus points**. One move often
 makes several words at once, and each is scored.
 
-**The wildcard** is a blank cube that can stand for any letter. You choose which
-when you place it, and that choice is locked in for the rest of the game.
+**The wildcard** is marked with a **★** in your tray and can stand for any
+letter. Place it and a picker asks which letter it represents; that choice is
+recorded when the move commits and holds for the rest of the game. A wildcard
+scores like any other cube.
 
 **Stuck with unusable letters?** **RESET** throws your tray away and deals a fresh
 set, at the cost of your turn.
