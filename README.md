@@ -98,7 +98,7 @@ rather the machine simply played its game and let you keep up.
 | Pick up a letter | Click a cube in your tray |
 | Place it | Click a face of a cube on the board |
 | Or, in one motion | Drag a letter straight from the tray onto the board |
-| Rearrange your tray | Drag tiles within the tray, before placing your first cube |
+| Rearrange your tray | Drag cubes within the tray, before placing your first cube |
 | Take back the last cube | `UNDO` — press again to keep stepping back |
 | Take back one cube | Right-click a cube you placed this turn |
 | Score the move | `DONE` |
