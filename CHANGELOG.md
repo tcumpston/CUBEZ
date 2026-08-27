@@ -9,8 +9,8 @@ wombyland.com; this is the same game as a native download.
 
 - A word game in three dimensions: build straight lines of lettered cubes
   through open space, along any of the three axes.
-- Crossword rules in the round — every word a move creates must be valid, not
-  only the line you meant to build. Invalid moves are rejected and cost nothing.
+- Every word a move creates must be valid, in every direction — not only the
+  line you meant to build. Invalid moves are rejected and cost nothing.
 - One point per letter, counting cubes already on the board as well as the ones
   you place. Two bonus points for a word that also reads validly backwards,
   including palindromes.

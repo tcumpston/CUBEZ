@@ -1,8 +1,8 @@
 # CUBEZ
 
 **A word game in three dimensions.** Build lines of lettered cubes through open
-space to spell words, crossing through letters already placed — like a crossword
-that grew a third axis. You play against the machine.
+space to spell words, running them through letters already placed and out along
+any of the three axes. You play against the machine.
 
 Made by [Wombyland](https://www.wombyland.com/). Windows, single player.
 
@@ -57,7 +57,7 @@ screen, refilled as you spend them, and you build **straight lines through the
 play space** —
 left–right, up–down, or front–back.
 
-**It is a crossword, in the round.** Every word your move creates must be real,
+**Every direction has to work.** Every word your move creates must be real,
 not only the line you meant to build. If your new cubes sit alongside existing
 ones and spell something invalid in a crossing direction, the move is rejected
 and your cubes come back — so there is no cost to trying.
